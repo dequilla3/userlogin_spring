@@ -8,7 +8,7 @@ public class UserloginApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(UserloginApplication.class, args);
-        System.err.println();
+
     }
 
 }
