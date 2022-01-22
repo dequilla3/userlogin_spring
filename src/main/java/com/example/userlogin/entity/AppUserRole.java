@@ -1,4 +1,4 @@
-package com.example.userlogin.appuser;
+package com.example.userlogin.entity;
 
 public enum AppUserRole {
     USER,

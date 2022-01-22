@@ -1,6 +1,6 @@
 package com.example.userlogin.security.config;
 
-import com.example.userlogin.appuserservice.AppUserService;
+import com.example.userlogin.service.AppUserService;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
