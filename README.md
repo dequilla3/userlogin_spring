@@ -1,7 +1,7 @@
 
-# Login Registration Backend 
+# Login & Registration api using Spring Boot 
 
-Complete login registration backend system using Spring Boot.
+Simple login and registration api using Spring Boot.
 
 - [x] Spring Boot
 - [x] Spring Security
